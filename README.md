@@ -7,7 +7,7 @@
 # Installing SDL2 on Windows
 ### Step 1 - Downloading the release
 - Go to the [Official Releases of SDL2  on GitHub](https://github.com/libsdl-org/SDL/releases)
-- Download the developer version of SDL2. As of 04-01-2024, it is <code>SDL2-devel-2.30.11-mingw.tar.gz</code>
+- Download the developer version of SDL2. As of January 4th, 2025, it is <code>SDL2-devel-2.30.11-mingw.tar.gz</code>
 - **NOTE**: It is necessary to install <code>SDL2</code> library. Check out the documentations at [the official SDL website](https://libsdl.org/).
 ### Step 2 - Extracting
 - Navigate to Downloads
